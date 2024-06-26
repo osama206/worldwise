@@ -90,7 +90,7 @@ To set up the WorldWise project locally, follow the instructions below.
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/khaled-farahat/WorldWise.git
+   git clone https://github.com/osama206/WorldWise.git
    cd WorldWise
    ```
 
